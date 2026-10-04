@@ -1,1 +1,13 @@
+
+
 https://books.libreoffice.org/en/
+
+Getting Starter Guide 26.2
+https://nextcloud.documentfoundation.org/s/rbd2ipG6RP8F779
+
+
+OpenOffice.org Macros Explained | OOME Third Edition
+https://www.pitonyak.org/OOME_3_0.pdf
+
+Custom Shape Tutorial
+https://documentation.libreoffice.org/assets/Uploads/Documentation/en/Tutorials/CustomShapes7/Custom-Shape-Tutorial.pdf
